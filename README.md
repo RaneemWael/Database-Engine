@@ -1,5 +1,5 @@
 # Database-Engine
-A database engine coded using Java and implemented using mySQL.
+A database engine coded using Java, implemented using mySQL and built using Maven.
 
 ## Description:
 
